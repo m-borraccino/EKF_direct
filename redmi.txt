@@ -1,0 +1,24 @@
+
+To run the simulation it suffices to run in folder \Matlab_files\*\ :
+
+1. script <init.m> to initialized all parameters
+
+2. run <EKF_sim.slx> to run simulation in Simulink
+
+In \Matlab_files\*\other_functions there are many files to plot graphics
+and simulation results or use the Data Logging Matlab function.
+
+------------------------------------------------------------------
+
+The simulation is based on the method proposed in:
+
+<[1] A GPS-aided Inertial Navigation System in Direct Configuration.pdf>
+
+and other articles saved in folder \ref\
+
+------------------------------------------------------------------
+
+For a detailed report, open:
+
+<SGN_report_Borraccino.pdf>
+
